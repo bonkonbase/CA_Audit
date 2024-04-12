@@ -8,4 +8,4 @@ Audit report main detail
 =========================
 ➣ The contract does not contain issues of high or medium criticality. <br>
 ➣ You can find the Audit Report linked below. <br>
-https://github.com/solidproof/projects/blob/main/2024f<br>
+https://github.com/solidproof/projects/blob/main/2024<br>
